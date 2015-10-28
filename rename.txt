@@ -2,3 +2,4 @@ test git
 Creating a new branch is quick & simple.
 changed in dev
 update rename file in developer A
+update rename file in developer B
